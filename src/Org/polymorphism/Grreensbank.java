@@ -13,6 +13,7 @@ public class Grreensbank extends Icicibank {
 	private void fixed() {
 		System.out.println("1");
 		System.out.println("karthi");
+		System.out.println("good");
 
 	}
 	
