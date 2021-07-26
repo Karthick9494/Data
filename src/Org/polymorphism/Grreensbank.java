@@ -12,7 +12,12 @@ public class Grreensbank extends Icicibank {
 	}
 	private void fixed() {
 		System.out.println("1");
+
 		System.out.println("last");
+
+		System.out.println("karthi");
+		System.out.println("good");
+
 
 	}
 	
@@ -22,6 +27,7 @@ public class Grreensbank extends Icicibank {
 		ref.deposit();
 		ref.fixed();
 		ref.savings();
+		
 	
 	}
 
